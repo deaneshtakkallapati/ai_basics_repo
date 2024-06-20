@@ -1,0 +1,8 @@
+,Movie,IMDB Rating,Budget (Millions),Box Office Revenue (Millions),Actor Salary (Millions),VFX Cost
+0,Movie A,8.7,20,100,2.0,3.5
+1,Movie B,7.2,10,50,1.0,2.0
+2,Movie C,6.5,15,70,1.5,3.0
+3,Movie D,9.0,30,120,3.0,5.0
+4,Movie E,8.2,25,110,2.5,4.0
+5,Movie F,6.8,12,60,1.2,2.0
+6,Movie G,7.5,18,80,1.5,2.0
